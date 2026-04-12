@@ -74,7 +74,11 @@
     "м9 кровавая",
     "1.13, zoom"
   ],
-  "contextChain": {},
-  "messages": 9,
-  "words": 57
+  "contextChain": {
+    "субтитры сделал": [
+      "dimatorzok"
+    ]
+  },
+  "messages": 18,
+  "words": 114
 }
