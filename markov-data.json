@@ -8941,6 +8941,30 @@
       null,
       null,
       null
+    ],
+    "@0buWanCanoby какой": [
+      "год",
+      "год",
+      "год",
+      "год",
+      "год",
+      "год"
+    ],
+    "какой год": [
+      "выпуска?",
+      "выпуска?",
+      "выпуска?",
+      "выпуска?",
+      "выпуска?",
+      "выпуска?"
+    ],
+    "год выпуска?": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   },
   "starts": [
@@ -10317,11 +10341,17 @@
     "@whereticw я",
     "@whereticw я",
     "@whereticw я",
-    "@whereticw я"
+    "@whereticw я",
+    "@0buWanCanoby какой",
+    "@0buWanCanoby какой",
+    "@0buWanCanoby какой",
+    "@0buWanCanoby какой",
+    "@0buWanCanoby какой",
+    "@0buWanCanoby какой"
   ],
   "transcriptChain": {},
   "transcriptStarts": [],
-  "messages": 1530,
-  "words": 8142,
-  "uniqueWords": 1087
+  "messages": 1536,
+  "words": 8166,
+  "uniqueWords": 1090
 }
